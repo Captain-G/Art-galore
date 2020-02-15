@@ -1,0 +1,111 @@
+/*core styles*/
+body{
+    background-color: #fbff73;
+    font-family:"Droid Sans Mono Dotted" , sans-serif;
+}
+
+/*navbar styling*/
+.navbar-brand img{
+    height:100px;
+    width:150px;
+}
+
+#brand-custom{
+    font-weight: bolder;
+    font-family: "Droid Sans Mono Dotted";
+    font-size:30px;
+    text-transform:uppercase;
+
+}
+
+.navbar .btn-dark{
+    padding:5px;
+    margin:10px;
+}
+
+/*carousel styling*/
+
+.carousel-item img{
+    height:400px;
+    width:700px;
+}
+
+/*featured categories styling*/
+
+.section-title{
+    font-weight:bold;
+    font-family:"Imprint MT Shadow" , sans-serif;
+
+}
+.card{
+    padding:10px;
+    background-color:black;
+
+
+}
+.card img{
+    height:200px;
+    width:330px;
+}
+
+.card .card-title{
+    font-weight: lighter;
+    font-family:"Imprint MT Shadow" , sans-serif;
+    color:white;
+
+}
+
+.card .card-content{
+    font-family:monospace;
+    color:white;
+
+}
+
+.row{
+    padding:10px;
+}
+
+/*popular artists styling*/
+
+.container-fluid .card img{
+    height:200px;
+    width:390px;
+}
+
+.container-fluid a{
+    color:white;
+}
+
+/*styling the footer*/
+
+.footer{
+    border:2px solid black;
+    border-radius:10px;
+    background-image:url("../images/cont1.jpg");
+}
+.footer a{
+    color:black;
+    font-weight:bolder;
+}
+
+.footer p{
+    color:black;
+    font-weight:bolder;
+}
+/*other styles*/
+
+.card-title a{
+    color:white;
+}
+
+.btn-info:hover{
+    background-color:black;
+    color:white;
+}
+
+
+
+
+
+
+
